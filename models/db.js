@@ -6,3 +6,4 @@ mongoose.connect('mongodb://localhost:27017/FilebasketDB', {useNewUrlParser: tru
 });
 
 require('./user.model')
+ 
